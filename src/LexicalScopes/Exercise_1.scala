@@ -1,7 +1,9 @@
 package LexicalScopes
+import com.atomicscala.AtomicTest._
 
 /**
-  * Created by cyn on 28/04/17.
+  * The definitions inside a block are only visible from within the block
+  *
   */
 object Exercise_1 extends App {
   val x = 0
@@ -11,6 +13,6 @@ object Exercise_1 extends App {
     x * x
   } + x
 
-  println(result)
+  result is 16
 
 }
