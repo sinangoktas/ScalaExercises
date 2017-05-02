@@ -29,7 +29,7 @@ c3 == cThree is true
 
 /*
 In the above example, the same definitions of bank accounts lead to different values,
-whereas the same definitions of notes lead to equal values.
+whereas the same definitions of Notes lead to equal values.
  */
 
 /*

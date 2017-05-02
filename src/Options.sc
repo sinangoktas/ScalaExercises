@@ -67,3 +67,6 @@ r1 is 9
 val r2 = noNumber.fold(0)(_ * 3)
 r2 is 0
 
+
+
+
