@@ -1,7 +1,7 @@
 package HigherOrderFunctions
 import com.atomicscala.AtomicTest._
 
-/**
+/*
 Functional languages treat functions as first-class values.
 This means that, like any other value, a function can be passed as a parameter and returned as a result.
 This provides a flexible way to compose programs.
