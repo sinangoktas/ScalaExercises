@@ -15,4 +15,5 @@ object Exercise_1 extends App {
 
   result is 16
 
+
 }
